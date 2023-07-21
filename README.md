@@ -1,4 +1,4 @@
-# Bubble Trouble
+# Bubble Shooter Game
 Bubble Trouble, an interactive bubble shooter game designed in C++ with optimizations for more frames and visually appealing look.
 ## Author - Omkar Nitsure
 Email - omkarnitsure2003@gmail.com <br>
